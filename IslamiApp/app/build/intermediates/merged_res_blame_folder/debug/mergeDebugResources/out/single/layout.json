@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\activity_show.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\activity_sura.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\activity_sura.xml"
+    },
+    {
+        "merged": "com.example.islamiapp-mergeDebugResources-30:/layout/fragment_radio.xml",
+        "source": "com.example.islamiapp-main-33:/layout/fragment_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\fragment_radio.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\fragment_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\fragment_hadeeth.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\fragment_hadeeth.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\fragment_sebha.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\fragment_sebha.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\fragment_quran.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\fragment_quran.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\hadeeth_item.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\hadeeth_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\quran_item.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\quran_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-mergeDebugResources-30:\\layout\\background.xml",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\background.xml"
+    }
+]

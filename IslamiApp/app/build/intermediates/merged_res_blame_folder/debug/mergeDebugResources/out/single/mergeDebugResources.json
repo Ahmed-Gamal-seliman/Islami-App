@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxhdpi_ic_quran.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxhdpi\\ic_quran.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-mdpi_ic_hadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-mdpi\\ic_hadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxhdpi_sebha_head.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxhdpi\\sebha_head.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxhdpi_sebha_body.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxhdpi\\sebha_body.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-hdpi_ic_radio.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-hdpi\\ic_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_quran_item.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\quran_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_fragment_quran.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\fragment_quran.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-night_icon_colors.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-night\\icon_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-mdpi_ic_moshaf.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-mdpi\\ic_moshaf.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xhdpi_sebha_head.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xhdpi\\sebha_head.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xhdpi_ic_quran.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xhdpi\\ic_quran.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxxhdpi_ic_moshaf.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxxhdpi\\ic_moshaf.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xhdpi_sebha_body.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xhdpi\\sebha_body.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxxhdpi_ic_hadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxxhdpi\\ic_hadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxhdpi_ic_moshaf.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxhdpi\\ic_moshaf.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xhdpi_ic_ahadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xhdpi\\ic_ahadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-hdpi_ic_hadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-hdpi\\ic_hadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_rounded_box.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\rounded_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxhdpi_ic_sebha.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxhdpi\\ic_sebha.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_radio.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\radio.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_fragment_hadeeth.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\fragment_hadeeth.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_sebha_head.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\sebha_head.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_sebha_body.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\sebha_body.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_ic_play.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "com.example.islamiapp-debug-31:/drawable_ic_next.xml.flat",
+        "source": "com.example.islamiapp-main-33:/drawable/ic_next.xml"
+    },
+    {
+        "merged": "com.example.islamiapp-debug-31:/drawable_ic_play.xml.flat",
+        "source": "com.example.islamiapp-main-33:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-night_sebha_head.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-night\\sebha_head.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_ic_play_audio.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\ic_play_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_background.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xhdpi_ic_sebha.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xhdpi\\ic_sebha.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.islamiapp-debug-31:/drawable_ic_play_audio.xml.flat",
+        "source": "com.example.islamiapp-main-33:/drawable/ic_play_audio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xhdpi_ic_moshaf.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xhdpi\\ic_moshaf.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-mdpi_ic_sebha.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-mdpi\\ic_sebha.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-mdpi_ic_ahadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-mdpi\\ic_ahadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_line_shape.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\line_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_moshaff.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\moshaff.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-night_sebha_body.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-night\\sebha_body.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxxhdpi_ic_quran.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxxhdpi\\ic_quran.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_activity_show.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\activity_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-hdpi_ic_moshaf.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-hdpi\\ic_moshaf.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-night_line_shape.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-night\\line_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxhdpi_ic_ahadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxhdpi\\ic_ahadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_ic_prev.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\ic_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-mdpi_ic_radio.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-mdpi\\ic_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-hdpi_ic_quran.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-hdpi\\ic_quran.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_hadeeth_item.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\hadeeth_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_sebha_body_big.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\sebha_body_big.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xhdpi_ic_radio.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xhdpi\\ic_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxxhdpi_sebha_head.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxxhdpi\\sebha_head.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\menu_menu_items.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\menu\\menu_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-night_background.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-night\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxxhdpi_sebha_body.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxxhdpi\\sebha_body.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\raw_s1.mp3.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\raw\\s1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxxhdpi_ic_sebha.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxxhdpi\\ic_sebha.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-mdpi_sebha_body.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-mdpi\\sebha_body.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_bessem_ellah.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\bessem_ellah.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxhdpi_ic_radio.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxhdpi\\ic_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_fragment_sebha.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\fragment_sebha.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_icon_colors.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\icon_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-mdpi_sebha_head.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-mdpi\\sebha_head.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_fragment_radio.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\fragment_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-hdpi_sebha_head.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-hdpi\\sebha_head.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxxhdpi_ic_radio.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxxhdpi\\ic_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_activity_sura.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\activity_sura.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-hdpi_ic_ahadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-hdpi\\ic_ahadeeth.png"
+    },
+    {
+        "merged": "com.example.islamiapp-debug-31:/drawable_ic_prev.xml.flat",
+        "source": "com.example.islamiapp-main-33:/drawable/ic_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-hdpi_sebha_body.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-hdpi\\sebha_body.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xhdpi_ic_hadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xhdpi\\ic_hadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_sebha_head_big.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\sebha_head_big.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxhdpi_ic_hadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxhdpi\\ic_hadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-hdpi_ic_sebha.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-hdpi\\ic_sebha.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_ic_next.xml.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\ic_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable_background.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-xxxhdpi_ic_ahadeeth.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-xxxhdpi\\ic_ahadeeth.png"
+    },
+    {
+        "merged": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-debug-31:\\drawable-mdpi_ic_quran.png.flat",
+        "source": "C:\\Users\\ahmed_elhabyan\\.gradle\\daemon\\8.4\\com.example.islamiapp-main-33:\\drawable-mdpi\\ic_quran.png"
+    }
+]

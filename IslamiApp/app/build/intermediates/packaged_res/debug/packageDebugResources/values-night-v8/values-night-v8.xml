@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_bottom_nav_bar">@color/darkBlue</color>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">@color/yellow</color>
+    <color name="darkBlue">#141A2E</color>
+    <color name="element_text_color">@color/white</color>
+    <color name="head_line_color">@color/white</color>
+    <color name="lightBrown">#B7935F</color>
+    <color name="sura_text_header_content_color">@color/yellow</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FACC1D</color>
+    <style name="Base.Theme.IslamiApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+         <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+</resources>
