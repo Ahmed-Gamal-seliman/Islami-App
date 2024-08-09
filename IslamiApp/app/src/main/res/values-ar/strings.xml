@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IslamiApp</string>
+    <string name="number_of_tassbeh">عدد التسبيحات</string>
+    <string name="subhana_allah">سبحان الله</string>
+    <string name="sebha">السبحة</string>
+    <string name="radio">الراديو</string>
+    <string name="hadeeeth">الأحاديث</string>
+    <string name="quran">القرآن</string>
+    <string name="ezaat_el_quran_elkarim">إذاعة القرآن الكريم</string>
+    <string name="eslami">إسلامي</string>
+    <string name="start_zero_count">0</string>
+    <string name="ahadeeth">الأحاديث</string>
+</resources>

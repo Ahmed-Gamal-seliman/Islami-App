@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightBrown">#B7935F</color>
+    <color name="yellow">#FACC1D</color>
+    <color name="background_bottom_nav_bar">@color/lightBrown</color>
+    <color name="colorPrimary">@color/lightBrown</color>
+    <color name="darkBlue">#141A2E</color>
+    <color name="head_line_color">@color/black</color>
+    <color name="element_text_color">@color/black</color>
+    <color name="sura_text_header_content_color">@color/black</color>
+</resources>
